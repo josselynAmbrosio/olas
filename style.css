@@ -231,13 +231,13 @@ padding-top: 0%;
 	border:1px solid #C8C8C8;
 }
 
-.overlay{
-	width: 95%;
-	min-height: 226px;
-	top: 0;
-	left: 9px;
-	position: absolute;
-	-webkit-transition: 1.2s;
+.overlay {
+  width: 95%;
+  min-height: 239px;
+  top: 0;
+  left: 9px;
+  position: absolute;
+  -webkit-transition: 1.2s;
 }
 
 .overlay:hover{
@@ -518,8 +518,8 @@ button{
 textarea {
   resize: none;
   padding-top: 10px;
-  padding-left: 10px;
-  border:1px solid #C8C8C8;
+  padding-left: 30px;
+  border: 1px solid #C8C8C8;
 }
 
 .caja4 {
